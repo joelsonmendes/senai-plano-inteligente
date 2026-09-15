@@ -1,0 +1,6 @@
+{
+  "name":"senai-plano-inteligente","version":"3.0.0","private":true,
+  "scripts":{"dev":"next dev","build":"next build","start":"next start"},
+  "dependencies":{"docx":"^9.5.1","jspdf":"^3.0.1","jspdf-autotable":"^5.0.2","lucide-react":"^0.468.0","mammoth":"^1.9.0","next":"^15.2.4","pdf-parse":"^1.1.1","react":"^19.0.0","react-dom":"^19.0.0"},
+  "devDependencies":{"@types/node":"^22.10.0","@types/react":"^19.0.0","@types/react-dom":"^19.0.0","typescript":"^5.7.2"}
+}
